@@ -1,5 +1,7 @@
 # encrypted_Messages
-A python program that encrypts and decrypts messages using CAESER cryptography technique.
+A python Application that encrypts and decrypts messages using CAESER cryptography technique and finds meaningful word using english dictionary.
+
+>>Uses tkinter module for the GUI.
 
 >>Encrypts the message according to the desired shifting key given by user.
 
